@@ -1,3 +1,3 @@
-# instaproject6
+# smallproject6
 
 grid autofit properties
